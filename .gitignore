@@ -1,0 +1,5 @@
+*.pyc
+*.sqlite3
+mysite_project/mysite/__pycache__/*
+mysite_project/polls/__pycache__/*
+mysite_project/polls/migrations/*
